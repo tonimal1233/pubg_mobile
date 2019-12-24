@@ -1,5 +1,5 @@
 
-function HOME()
+function SHIVAM()
 AB = gg.choice({ 
 "LOBBY",
 'SPEED ON',
